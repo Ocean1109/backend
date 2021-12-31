@@ -1,12 +1,12 @@
 # 通用后端
 ## 项目结构
-common：个人构建的返回值架构，如果不符合使用者习惯可以删除
-config：跨域问题和Spring Security配置
-controller：测试controller
-entity：数据库实体类型
-mapper：持久化mapper
-service：测试service层
-application.yaml：工程配置文件
+common：个人构建的返回值架构，如果不符合使用者习惯可以删除.  
+config：跨域问题和Spring Security配置.  
+controller：测试controller.  
+entity：数据库实体类型.  
+mapper：持久化mapper.  
+service：测试service层.  
+application.yaml：工程配置文件.  
 ## 建表语句
 ```
 CREATE TABLE `ocean_test`.`无标题`  (
