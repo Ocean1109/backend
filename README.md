@@ -1,4 +1,5 @@
 # 通用后端
+Spring Boot架构+Spring Security，前后端分离
 ## 项目结构
 common：个人构建的返回值架构，如果不符合使用者习惯可以删除.  
 config：跨域问题和Spring Security配置.  
